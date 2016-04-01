@@ -1,0 +1,5 @@
+Requerimientos
+
+Nombre: Mis comras
+Objetivo: Crear una webapp usando Django que me permita administrar una lista de compras por hacer
+
